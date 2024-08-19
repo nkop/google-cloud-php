@@ -1,5 +1,5 @@
 {
-    "name": "google/cloud",
+    "name": "shopforward/google-cloud",
     "type": "library",
     "description": "Google Cloud Client Library",
     "keywords": [
@@ -65,9 +65,6 @@
         "kreait/firebase-php": "^6.9",
         "psr/log": "^2.0||^3.0",
         "dg/bypass-finals": "^1.7"
-    },
-    "conflict": {
-        "psr/log": ">=3"
     },
     "replace": {
         "google/access-context-manager": "1.0.0",
